@@ -1,0 +1,11 @@
+Library
+Logs
+Temp
+obj
+.vs
+.vscode
+*.csproj
+*.sln
+**.DS_Store
+Build
+WebBuild
